@@ -1,0 +1,11 @@
+.git
+.github
+__pycache__
+*.pyc
+*.ipynb
+financial_dataset.csv
+README.md
+.env
+.venv
+venv
+.DS_Store
